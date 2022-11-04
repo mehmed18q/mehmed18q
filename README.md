@@ -1,8 +1,9 @@
-- 👋 Hi, I’m mehmed18q
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sadeq
+- 👀 I’m interested in Backend
+- ✌ I’m Eager to Python and C#
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on Google
+- 📫 How to Reach me, just enter my site at http://sadeqkiumarsi.ir/
 
 <!---
 mehmed18q/mehmed18q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
